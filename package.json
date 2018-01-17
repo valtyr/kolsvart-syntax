@@ -2,7 +2,7 @@
   "name": "kolsvart-syntax",
   "theme": "syntax",
   "version": "1.0.0",
-  "description": "A modified one-dark-vivid-syntax for the kolsvart theme",
+  "description": "A darker one-dark-vivid-syntax",
   "keywords": ["vivid", "dark", "blue", "syntax", "kolsvart"],
   "repository": "https://github.com/valtyr/kolsvart-syntax",
   "license": "MIT",
